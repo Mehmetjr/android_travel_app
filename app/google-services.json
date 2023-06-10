@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "763546969860",
+    "firebase_url": "https://gezilecek-yerler-e4da1-default-rtdb.firebaseio.com",
+    "project_id": "gezilecek-yerler-e4da1",
+    "storage_bucket": "gezilecek-yerler-e4da1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763546969860:android:4e84970a8b0e3fb0911251",
+        "android_client_info": {
+          "package_name": "com.example.mehmet_can_gunduz_hw9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763546969860-r3f5bvot4fj9dd711cr433niu67i13e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACme0K-Mo3zvRWJdxBydWZWZlpa9b3GfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763546969860-r3f5bvot4fj9dd711cr433niu67i13e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
